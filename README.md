@@ -27,8 +27,8 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## URL Disponivel
+## Available URL
 ```bash
-# Colocar na URL de navegação
+# Put in navigation URL
 $ localhost:3000/etl
 ```
